@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://www.scchan.com</id>
+    <id>https://sichengchen.github.io</id>
     <title>Sicheng Chen</title>
-    <updated>2020-03-12T11:55:41.886Z</updated>
+    <updated>2020-03-12T11:56:22.345Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://www.scchan.com"/>
-    <link rel="self" href="https://www.scchan.com/atom.xml"/>
+    <link rel="alternate" href="https://sichengchen.github.io"/>
+    <link rel="self" href="https://sichengchen.github.io/atom.xml"/>
     <subtitle>这里，我的笔记和Blog。</subtitle>
-    <logo>https://www.scchan.com/images/avatar.png</logo>
-    <icon>https://www.scchan.com/favicon.ico</icon>
+    <logo>https://sichengchen.github.io/images/avatar.png</logo>
+    <icon>https://sichengchen.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, Sicheng Chen</rights>
     <entry>
         <title type="html"><![CDATA[我站再开二周年暨整体迁移至Gridea平台记]]></title>
-        <id>https://www.scchan.com/post/transform-to-gridea/</id>
-        <link href="https://www.scchan.com/post/transform-to-gridea/">
+        <id>https://sichengchen.github.io/post/transform-to-gridea/</id>
+        <link href="https://sichengchen.github.io/post/transform-to-gridea/">
         </link>
         <updated>2020-03-08T10:00:00.000Z</updated>
         <content type="html"><![CDATA[<p>👏  我站已迁移 <strong>Gridea</strong> ！<br>
@@ -23,8 +23,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[平德軟件工程：應用程序《軍政公式》介紹]]></title>
-        <id>https://www.scchan.com/post/ping-de-ruan-jian-gong-cheng-ying-yong-cheng-xu-lesslessjun-zheng-gong-shi-greatergreater-jie-shao/</id>
-        <link href="https://www.scchan.com/post/ping-de-ruan-jian-gong-cheng-ying-yong-cheng-xu-lesslessjun-zheng-gong-shi-greatergreater-jie-shao/">
+        <id>https://sichengchen.github.io/post/ping-de-ruan-jian-gong-cheng-ying-yong-cheng-xu-lesslessjun-zheng-gong-shi-greatergreater-jie-shao/</id>
+        <link href="https://sichengchen.github.io/post/ping-de-ruan-jian-gong-cheng-ying-yong-cheng-xu-lesslessjun-zheng-gong-shi-greatergreater-jie-shao/">
         </link>
         <updated>2020-02-11T11:47:19.000Z</updated>
         <content type="html"><![CDATA[<p>繼《嘉宏氪星》（Chia-Hung K’ei-Hsing）后，平德軟件工程開發小組即將推出最新產品——《軍政公式》，這是一款計算機編排班級座位程序，是一款擁有自動化成績分級、自動化生成小組、考慮特殊要求等重要功能的優秀程序。您只需輸入班級學生名單、考試成績單、特殊要求，就能立刻獲得一個最佳化的座位表。<br>
@@ -33,8 +33,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[自研計算機應用程序《嘉宏氪星》説明]]></title>
-        <id>https://www.scchan.com/post/zi-yan-ji-suan-ji-ying-yong-cheng-xu-lesslessjia-hong-ke-xing-greatergreater-shuo-ming/</id>
-        <link href="https://www.scchan.com/post/zi-yan-ji-suan-ji-ying-yong-cheng-xu-lesslessjia-hong-ke-xing-greatergreater-shuo-ming/">
+        <id>https://sichengchen.github.io/post/zi-yan-ji-suan-ji-ying-yong-cheng-xu-lesslessjia-hong-ke-xing-greatergreater-shuo-ming/</id>
+        <link href="https://sichengchen.github.io/post/zi-yan-ji-suan-ji-ying-yong-cheng-xu-lesslessjia-hong-ke-xing-greatergreater-shuo-ming/">
         </link>
         <updated>2020-02-08T11:45:27.000Z</updated>
         <content type="html"><![CDATA[<h1 id="前言">前言</h1>
@@ -72,8 +72,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[新春快乐！]]></title>
-        <id>https://www.scchan.com/post/xin-chun-kuai-le/</id>
-        <link href="https://www.scchan.com/post/xin-chun-kuai-le/">
+        <id>https://sichengchen.github.io/post/xin-chun-kuai-le/</id>
+        <link href="https://sichengchen.github.io/post/xin-chun-kuai-le/">
         </link>
         <updated>2020-01-25T11:43:30.000Z</updated>
         <content type="html"><![CDATA[<h1 id="祝大家农历庚子新年快乐">祝大家农历庚子新年快乐！</h1>
@@ -85,8 +85,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[小米6刷Android Q实战记录]]></title>
-        <id>https://www.scchan.com/post/xiao-mi-6-shua-android-q-shi-zhan-ji-lu/</id>
-        <link href="https://www.scchan.com/post/xiao-mi-6-shua-android-q-shi-zhan-ji-lu/">
+        <id>https://sichengchen.github.io/post/xiao-mi-6-shua-android-q-shi-zhan-ji-lu/</id>
+        <link href="https://sichengchen.github.io/post/xiao-mi-6-shua-android-q-shi-zhan-ji-lu/">
         </link>
         <updated>2019-07-13T11:41:09.000Z</updated>
         <content type="html"><![CDATA[<p>各位本站观众们大家好！我是……</p>
@@ -154,8 +154,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[小米6刷 Android P]]></title>
-        <id>https://www.scchan.com/post/xiao-mi-6-shua-android-p/</id>
-        <link href="https://www.scchan.com/post/xiao-mi-6-shua-android-p/">
+        <id>https://sichengchen.github.io/post/xiao-mi-6-shua-android-p/</id>
+        <link href="https://sichengchen.github.io/post/xiao-mi-6-shua-android-p/">
         </link>
         <updated>2018-08-03T11:37:58.000Z</updated>
         <content type="html"><![CDATA[<p>在本站全球版查看 Global version[1]</p>
@@ -196,8 +196,8 @@ Recovery：'https://sagit.sbwml.net/?dir=tools/Recovery-treble'</p>
     </entry>
     <entry>
         <title type="html"><![CDATA[2月14日服务器突发情况日志公布]]></title>
-        <id>https://www.scchan.com/post/2-yue-14-ri-fu-wu-qi-tu-fa-qing-kuang-ri-zhi-gong-bu/</id>
-        <link href="https://www.scchan.com/post/2-yue-14-ri-fu-wu-qi-tu-fa-qing-kuang-ri-zhi-gong-bu/">
+        <id>https://sichengchen.github.io/post/2-yue-14-ri-fu-wu-qi-tu-fa-qing-kuang-ri-zhi-gong-bu/</id>
+        <link href="https://sichengchen.github.io/post/2-yue-14-ri-fu-wu-qi-tu-fa-qing-kuang-ri-zhi-gong-bu/">
         </link>
         <updated>2018-02-15T11:37:18.000Z</updated>
         <content type="html"><![CDATA[<p>[00:07:43] [Craft Scheduler Thread - 1302/INFO]: [Residence] 保存领地数据到文件中,耗时 0.03 秒<br>
@@ -514,8 +514,8 @@ at java.lang.Thread.run(Unknown Source) [?:1.8.0_121]<br>
     </entry>
     <entry>
         <title type="html"><![CDATA[新年伊始，元旦快乐！]]></title>
-        <id>https://www.scchan.com/post/xin-nian-yi-shi-yuan-dan-kuai-le/</id>
-        <link href="https://www.scchan.com/post/xin-nian-yi-shi-yuan-dan-kuai-le/">
+        <id>https://sichengchen.github.io/post/xin-nian-yi-shi-yuan-dan-kuai-le/</id>
+        <link href="https://sichengchen.github.io/post/xin-nian-yi-shi-yuan-dan-kuai-le/">
         </link>
         <updated>2018-01-01T11:35:04.000Z</updated>
         <content type="html"><![CDATA[<p>原文来自：Bing</p>
@@ -542,8 +542,8 @@ at java.lang.Thread.run(Unknown Source) [?:1.8.0_121]<br>
     </entry>
     <entry>
         <title type="html"><![CDATA[【翻译+修改】Uni Signo 系列入门教程]]></title>
-        <id>https://www.scchan.com/post/fan-yi-xiu-gai-uni-signo-xi-lie-ru-men-jiao-cheng/</id>
-        <link href="https://www.scchan.com/post/fan-yi-xiu-gai-uni-signo-xi-lie-ru-men-jiao-cheng/">
+        <id>https://sichengchen.github.io/post/fan-yi-xiu-gai-uni-signo-xi-lie-ru-men-jiao-cheng/</id>
+        <link href="https://sichengchen.github.io/post/fan-yi-xiu-gai-uni-signo-xi-lie-ru-men-jiao-cheng/">
         </link>
         <updated>2017-11-13T11:31:41.000Z</updated>
         <content type="html"><![CDATA[<p>原文来自：Jetpens<a href="https://www.jetpens.com/blog/uni-ball-signo-a-comprehensive-guide/pt/639">1</a></p>
@@ -614,8 +614,8 @@ at java.lang.Thread.run(Unknown Source) [?:1.8.0_121]<br>
     </entry>
     <entry>
         <title type="html"><![CDATA[开站通知]]></title>
-        <id>https://www.scchan.com/post/kai-zhan-tong-zhi/</id>
-        <link href="https://www.scchan.com/post/kai-zhan-tong-zhi/">
+        <id>https://sichengchen.github.io/post/kai-zhan-tong-zhi/</id>
+        <link href="https://sichengchen.github.io/post/kai-zhan-tong-zhi/">
         </link>
         <updated>2017-11-13T11:30:28.000Z</updated>
         <content type="html"><![CDATA[<h1 id="本站再开">本站再开</h1>
