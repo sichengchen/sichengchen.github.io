@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sichengchen.github.io</id>
     <title>Sicheng Chen</title>
-    <updated>2020-04-02T07:55:38.840Z</updated>
+    <updated>2020-04-02T11:17:28.106Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://sichengchen.github.io"/>
     <link rel="self" href="https://sichengchen.github.io/atom.xml"/>
@@ -10,6 +10,39 @@
     <logo>https://sichengchen.github.io/images/avatar.png</logo>
     <icon>https://sichengchen.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, Sicheng Chen</rights>
+    <entry>
+        <title type="html"><![CDATA[《嘉宏氪星》适配钉钉了！]]></title>
+        <id>https://sichengchen.github.io/post/lesslessjia-hong-ke-xing-greatergreater-gua-pei-ding-ding-liao/</id>
+        <link href="https://sichengchen.github.io/post/lesslessjia-hong-ke-xing-greatergreater-gua-pei-ding-ding-liao/">
+        </link>
+        <updated>2020-04-02T11:15:14.000Z</updated>
+        <content type="html"><![CDATA[<h1 id="提供软件平台服务paas型">提供软件平台服务（PaaS型）</h1>
+<h1 id="亦提供托管服务saas型">亦提供托管服务（SaaS型）</h1>
+<h1 id="具体咨询">具体咨询</h1>
+<p>请电邮咨询！</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bookkit项目概要]]></title>
+        <id>https://sichengchen.github.io/post/bookkit-xiang-mu-gai-yao/</id>
+        <link href="https://sichengchen.github.io/post/bookkit-xiang-mu-gai-yao/">
+        </link>
+        <updated>2020-03-29T07:09:26.000Z</updated>
+        <content type="html"><![CDATA[<p>。待补</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[“Lilm（リルム）图书管理解决方案”项目概要]]></title>
+        <id>https://sichengchen.github.io/post/lilmrirumutu-shu-guan-li-jie-jue-fang-an-xiang-mu-gai-yao/</id>
+        <link href="https://sichengchen.github.io/post/lilmrirumutu-shu-guan-li-jie-jue-fang-an-xiang-mu-gai-yao/">
+        </link>
+        <updated>2020-03-29T06:54:50.000Z</updated>
+        <content type="html"><![CDATA[<h1 id="何为lilmリルム">何为Lilm（リルム）</h1>
+<p>Lilm是一款先进的开源图书管理整体解决方案。它规划具有ISBN快速录入，自动寻找图书元数据，图书馆式图书管理系统的功能。无论是个人使用还是图书馆使用，它都将是一个优秀的解决方案——应用于中小型图书库的管理。Lilm其作为一款图书管理解决方案最大的特色就是“自动寻找图书元数据”的功能。透过科技社珂院图书情报学研究所研发的Bookkit，可以以极快的速度在互联网主流的图书信息平台上找到图书的各项属性。Lilm通过采用Bookkit，大大减少了图书管理员录入图书的时间成本，提高了工作效率，也使专业型的图书管理系统有了走向普通用户的可能。未来科技社珂院图书情报学研究所还将推出Bookkit 2.0，将包含自动归类（依据中图法）的功能，使得图书的分类管理更为便捷，免去了图书管理员查看版权页或是手动分类的麻烦。Bookkit 2.0推出后，Lilm集成标签打印功能也将不再停留在想象中。<br>
+Lilm将成为一个优秀的、极具革命性的中小型书库开源图书管理一站式解决方案。</p>
+<h1 id="待补">待补</h1>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[我站再开二周年暨整体迁移至Gridea平台记]]></title>
         <id>https://sichengchen.github.io/post/transform-to-gridea/</id>
@@ -510,116 +543,6 @@ at java.lang.Thread.run(Unknown Source) [?:1.8.0_121]<br>
 [21:49:06] [Craft Scheduler Thread - 1678/INFO]: [Residence] 保存领地数据到文件中,耗时 0.034 秒<br>
 [21:59:06] [Craft Scheduler Thread - 1679/INFO]: [Residence] 保存领地数据到文件中,耗时 0.024 秒<br>
 [22:09:07] [Craft Scheduler Thread - 1679/INFO]: [Residence] 保存领地数据到文件中,耗时 0.029 秒</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[新年伊始，元旦快乐！]]></title>
-        <id>https://sichengchen.github.io/post/xin-nian-yi-shi-yuan-dan-kuai-le/</id>
-        <link href="https://sichengchen.github.io/post/xin-nian-yi-shi-yuan-dan-kuai-le/">
-        </link>
-        <updated>2018-01-01T11:35:04.000Z</updated>
-        <content type="html"><![CDATA[<p>原文来自：Bing</p>
-<p><strong>各国有趣的新年习俗</strong><br>
-总有你意象不到的过节方式</p>
-<p>伴着爆竹烟火的剧烈响声，新的一年也劈头盖脸的来临，也许你在感叹时间的飞逝，那些小时候的新年记忆越来越模糊，清晰的只是齿轮般的日日重复的现实，但不要灰心，就像这只栖息在玫瑰果树枝上的知更鸟一样，伸伸懒腰，大声鸣叫，也许生活就是那么简单！</p>
-<h1 id="俄罗斯新年习俗">俄罗斯新年习俗</h1>
-<p>为欢度新年，俄罗斯各大城市、主要广场及地标性建筑附近都会用枞树装点。俄罗斯人也会把枞树买回家，用各种小饰品进行装饰，并把将要送给亲友的礼物放在枞树下。新年前夜，俄罗斯人还会全家围坐在电视机前，听总统新年贺词，等候克里姆林宫斯巴斯克塔楼敲响新年钟声，有人还会在新年零时打开家门并许愿。</p>
-<h1 id="英国新年习俗">英国新年习俗</h1>
-<p>按英国人的风俗，新年这一天的凌晨，朝屋里迈进第一只脚的人，预示着新的一年的运气。如果第一个客人是个黑发的男人，或是个快乐、幸福而富裕的人，主人就将全年吉利走好运。如果第一个客人是个浅黄头发的女人，或是个忧伤、贫穷、不幸的人，主人在新的一年中将遭霉运，会遇上困难和灾祸。</p>
-<h1 id="印度新年习俗">印度新年习俗</h1>
-<p>印度的新年被人称为“痛哭新年”、“禁食新年”。他们在新年第一天，谁也不许对人生气，更不准发脾气。有些地方，过年不但不庆祝，反而相抱大哭。他们认为，新年一开始，岁月易逝、人生短暂，用哭声来表示自己的感叹。有些地区的人们则以禁食一天一夜来迎接新的一年，由新年凌晨开始直到午夜为止。</p>
-<h1 id="西班牙新年习俗">西班牙新年习俗</h1>
-<p>西班牙人在新年前夕，所有家庭成员都团聚在一起，以音乐和游戏相庆贺。最传统的活动就是伴随着新年的12响钟声吃下12颗葡萄来迎接新年的到来。新年这天，西班牙人最忌孩子们骂人、打架和哭啼，认为这些现象是不祥之兆。所以，新年之日大人总是尽量满足孩子们的一切要求。同时，这天人们身上必携一枚金币或铜币以示吉祥。</p>
-<h1 id="美国新年习俗">美国新年习俗</h1>
-<p>吃鲱鱼图吉祥</p>
-<p>图片加载中...</p>
-<p>新年在美国并不是最热闹的节日，但仍是全美各州一致庆祝的主要节日。新年这一天很多美国人要吃鲱鱼。因为这种鱼总是成群结队地游弋，象征着家族的富裕繁荣，美国人偏爱鲱鱼的另一缘由是这种鱼在水中总是很努力，吃了它，在新的一年中会出人头地。所以如果你此时在美国，给自己买条鲱鱼吃吧！</p>
-<h1 id="法国新年习俗">法国新年习俗</h1>
-<p>你能做的就是，狂欢痛饮！</p>
-<p>图片加载中</p>
-<p>法国的新年本来是每年4月1日，直到1564年，国王查理九世才把它改作1月1日。法国人以酒来庆祝新年，人们从除夕起开始狂欢痛饮，直到1月3日才终止。法国人在新年到来之前，各家一定要把家中的余酒全部喝光，他们认为，新年时只有喝光家中所有的酒，新的一年里才能交好运。</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【翻译+修改】Uni Signo 系列入门教程]]></title>
-        <id>https://sichengchen.github.io/post/fan-yi-xiu-gai-uni-signo-xi-lie-ru-men-jiao-cheng/</id>
-        <link href="https://sichengchen.github.io/post/fan-yi-xiu-gai-uni-signo-xi-lie-ru-men-jiao-cheng/">
-        </link>
-        <updated>2017-11-13T11:31:41.000Z</updated>
-        <content type="html"><![CDATA[<p>原文来自：Jetpens<a href="https://www.jetpens.com/blog/uni-ball-signo-a-comprehensive-guide/pt/639">1</a></p>
-<p>Uni-ball Signo系列被许多人誉为中性笔中的“圣杯”，该产品因其传奇的档案质量墨水和顺滑的书写而备受赞誉。 笔尖粗细范围从0.28毫米到1.0毫米可供挑选，并有各种颜色可供选择，因此被各地的中性笔爱好者所喜爱。</p>
-<p>凝胶墨水背后的极其粘稠的配方使其与众不同。 当墨水通过笔尖时，墨水的粘稠度会因笔尖而降低，从而能够顺利书写。 当墨水接触到纸张时，它会恢复原来的粘度以防止洇墨。 油墨中所含的颜料具有防水性和耐光性，所以您可以长时间享受您的作品。</p>
-<p>图片加载中...</p>
-<p>Uni Signo系列最近的创新是在RT1（UMN155）上的“低阻力笔尖”。 传统笔的笔尖的有棱角的，而RT1的笔尖是没有棱角的，因此可以减少对纸张的摩擦。 这使笔在纸上更轻松地书写。</p>
-<h1 id="款式">款式</h1>
-<h2 id="产品构成">产品构成</h2>
-<p>Uni-ball Signo品牌下的产品系列可以分为拔盖式或按动式。<br>
-在这些方面，诸如笔握材料，笔的长度和重量等因素也有一些区别。</p>
-<p>型号区别请查看：我在知乎的一个回答<a href="https://www.zhihu.com/question/51545827/answer/137187002">2</a></p>
-<p>图片加载中...</p>
-<h2 id="笔尖粗细">笔尖粗细</h2>
-<p>Uni Signo产品具有0.28 mm，0.38 mm，0.5 mm，0.7 mm，0.8 mm和1.0 mm等多种尺寸的笔尖。 需注意的是，UM - 201 也提供了 0.18 mm 的传奇笔尖粗细，但它后来停产了。 有些产品有许多中笔尖可选，而有些只有一种。 尽管所有的Uni-ball Signo笔都可以轻松书写，但是笔尖越粗，书写越流利。</p>
-<p>图片加载中...</p>
-<h2 id="墨水颜色">墨水颜色</h2>
-<p>Uni Signo笔有各种各样的颜色供你选择。 不同的产品提供不同的颜色。 虽然系列中某些笔的颜色名称是相同的，但这几种颜色之间仍然略有不同。 我们将不同的产品分类为书写用和工艺用。 书写用的颜色在下面的表格中，而工艺用的试色在这篇文章的后面。</p>
-<p>图片加载中...</p>
-<h1 id="详细书写用产品介绍">详细书写用产品介绍</h1>
-<h2 id="um-151-中性笔">UM-151 中性笔</h2>
-<p>图片加载中...<br>
-图片加载中...</p>
-<p>凭借舒适的笔握和平衡的重量，这些细尖笔是日常写作的绝佳选择。 它有很多种颜色。 有些人可能叫他Signo DX，这就是它们在日本外的称呼。</p>
-<h2 id="um-151nd-针管中性笔">UM-151ND 针管中性笔</h2>
-<p>图片加载中...<br>
-图片加载中...</p>
-<p>Uni-ball Signo针管中性笔有15色可选，它的书写精确度极高，适合艺术家和设计师使用于勾勒细节。 0.38毫米针尖，虽然非常细，但是感觉比UM-151的0.38毫米的笔尖写起来更顺滑。 它非常像UM-151，但可以通过印在笔管上的白色针状图案与其兄弟姐妹区分开来。</p>
-<h2 id="um-100-中性笔">UM-100 中性笔</h2>
-<p>图片加载中...<br>
-图片加载中...</p>
-<p>这些笔适用于那些不想在笔上添加任何东西的人，“能写就好”。 UM-100笔外观朴素，价格实惠，提供0.5毫米以及0.7毫米的笔尖于许多色彩供书写。 您可以使用常用颜色在课堂上或在工作中记笔记，使用其他颜色写日记或向朋友写纸条。</p>
-<h2 id="umn-138-按动中性笔">UMN-138 按动中性笔</h2>
-<p>图片加载中...<br>
-图片加载中...</p>
-<p>对于那些不能被打扰的人，我们推荐可伸缩的RT笔。 这些笔非常轻便，握持和使用都很舒适。 它们的重量稍微大一点，您可能需要相应调整握笔姿势。 无论如何，他们携带相同的Signo凝胶墨水，同样能给你流畅的书写体验。</p>
-<h2 id="umn-155-按动中性笔">UMN-155 按动中性笔</h2>
-<p>图片加载中...<br>
-图片加载中...<br>
-图片加载中...<br>
-图片加载中...<br>
-图片加载中...</p>
-<p>RT1笔也可伸缩，采用前面提到的创新笔尖设计。 尖端是圆形的，以减少对纸张的摩擦，并使它书写顺滑。 笔的设计可以反映人们的书写习惯，一个笔杆一个架子构成的简易设计，几乎可以无缝地融入笔桶。 这个笔比拔帽的稍胖一些，笔轻而易握。</p>
-<h2 id="umn-207-按动中性笔">UMN-207 按动中性笔</h2>
-<p>图片加载中...<br>
-图片加载中...</p>
-<p>这些笔的笔尖尺寸稍大一些，适合喜欢用较粗线条书写的人。 207 BLX笔具有不同的黑色色调，为普通的黑色提供了微妙的柔软，而普通的207则提供更多的标准色彩。 它非常适合书写法律和官方文件，207的自己已经用无数次试验证明了它的耐水性。<br>
-你也可以考虑Premier 207（UMN-207gg）.它也有207墨水，并配有更加柔软的αgel手柄。</p>
-<p>关于αgel：介绍<a href="http://www.taica.co.jp/gel-english/alpha/">3</a></p>
-<h2 id="umn-307-按动中性笔">UMN-307 按动中性笔</h2>
-<p>图片加载中...<br>
-图片加载中...</p>
-<p>无论您是参加商务会议还是课堂演讲，307笔都是流畅的，可用于快速书写。 在外观方面，它不同于207笔，它在上部加入了花纹。 该墨水配方还含有特殊的纳米纤维（CNF）。 CNF现在正在被开发成为一种环保的钢铁替代品。 CNF被用作笔中的增稠剂，增加墨水的顺滑度，即使写得很快，笔仍然保持无挂墨。</p>
-<h2 id="可擦系列">可擦系列</h2>
-<p>图片加载中...<br>
-图片加载中...</p>
-<p>如果您喜欢中性笔，但容易写错字，请尝试Signo可擦笔。 油墨包括精细的透明颗粒，防止较大的颜料颗粒渗入纸纤维。 墨水不容易从纸上剥落，但在使用橡皮擦时会褪色。 无论是普通铅笔橡皮擦还是笔自己的橡皮擦都可以使用。 （您可能会注意到墨水不会完全擦除干净） Signo可擦笔最适合消除小错误，而不是冗长的文本块。</p>
-<h2 id="应用">应用</h2>
-<h3 id="耐化学药剂检查">耐化学药剂检查</h3>
-<p>图片加载中...</p>
-<p>某些贼用例如丙酮的有机溶剂去除支票上的字，我们用UMN-207测试浸泡丙酮。<br>
-测试用笔：UMN-207 按动黑色中性笔。</p>
-<h1 id="详细工艺用产品介绍">详细工艺用产品介绍</h1>
-<p>请等待翻译</p>
-<h1 id="结语">结语</h1>
-<p>Uni-ball Signo提供了笔的广泛选择，从日常写作到工艺项目都十分适合。 档案凝胶油墨的顺滑书写使它成为我们笔筒的必备品。 你最喜欢的Uni-ball Signo笔是什么？</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[开站通知]]></title>
-        <id>https://sichengchen.github.io/post/kai-zhan-tong-zhi/</id>
-        <link href="https://sichengchen.github.io/post/kai-zhan-tong-zhi/">
-        </link>
-        <updated>2017-11-13T11:30:28.000Z</updated>
-        <content type="html"><![CDATA[<h1 id="本站再开">本站再开</h1>
-<p>欢迎！</p>
 ]]></content>
     </entry>
 </feed>
