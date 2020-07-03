@@ -2,11 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sichengchen.github.io</id>
     <title>Sicheng Chen</title>
-    <updated>2020-07-03T11:09:44.442Z</updated>
+    <updated>2020-07-03T11:11:32.075Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://sichengchen.github.io"/>
     <link rel="self" href="https://sichengchen.github.io/atom.xml"/>
-    <subtitle>这里，我的笔记和Blog。</subtitle>
+    <subtitle>我的笔记和Blog。</subtitle>
     <logo>https://sichengchen.github.io/images/avatar.png</logo>
     <icon>https://sichengchen.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, Sicheng Chen</rights>
