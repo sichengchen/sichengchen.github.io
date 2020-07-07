@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sichengchen.github.io</id>
     <title>scchan</title>
-    <updated>2020-07-03T11:14:15.402Z</updated>
+    <updated>2020-07-07T04:39:49.682Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://sichengchen.github.io"/>
     <link rel="self" href="https://sichengchen.github.io/atom.xml"/>
@@ -11,39 +11,16 @@
     <icon>https://sichengchen.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, scchan</rights>
     <entry>
-        <title type="html"><![CDATA[“Lilm（リルム）图书管理解决方案”项目概要]]></title>
-        <id>https://sichengchen.github.io/post/lilmrirumutu-shu-guan-li-jie-jue-fang-an-xiang-mu-gai-yao/</id>
-        <link href="https://sichengchen.github.io/post/lilmrirumutu-shu-guan-li-jie-jue-fang-an-xiang-mu-gai-yao/">
-        </link>
-        <updated>2020-03-29T06:54:50.000Z</updated>
-        <content type="html"><![CDATA[<h1 id="何为lilmリルム">何为Lilm（リルム）</h1>
-<p>Lilm是一款先进的开源图书管理整体解决方案。它规划具有ISBN快速录入，自动寻找图书元数据，图书馆式图书管理系统的功能。无论是个人使用还是图书馆使用，它都将是一个优秀的解决方案——应用于中小型图书库的管理。Lilm其作为一款图书管理解决方案最大的特色就是“自动寻找图书元数据”的功能。透过科技社珂院图书情报学研究所研发的Bookkit，可以以极快的速度在互联网主流的图书信息平台上找到图书的各项属性。Lilm通过采用Bookkit，大大减少了图书管理员录入图书的时间成本，提高了工作效率，也使专业型的图书管理系统有了走向普通用户的可能。未来科技社珂院图书情报学研究所还将推出Bookkit 2.0，将包含自动归类（依据中图法）的功能，使得图书的分类管理更为便捷，免去了图书管理员查看版权页或是手动分类的麻烦。Bookkit 2.0推出后，Lilm集成标签打印功能也将不再停留在想象中。<br>
-Lilm将成为一个优秀的、极具革命性的中小型书库开源图书管理一站式解决方案。</p>
-<h1 id="待补">待补</h1>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我站再开二周年暨整体迁移至Gridea平台记]]></title>
-        <id>https://sichengchen.github.io/post/transform-to-gridea/</id>
-        <link href="https://sichengchen.github.io/post/transform-to-gridea/">
-        </link>
-        <updated>2020-03-08T10:00:00.000Z</updated>
-        <content type="html"><![CDATA[<p>👏  我站已迁移 <strong>Gridea</strong> ！<br>
-...</p>
-<p>GUI yes！</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[新春快乐！]]></title>
+        <title type="html"><![CDATA[新春快樂！]]></title>
         <id>https://sichengchen.github.io/post/xin-chun-kuai-le/</id>
         <link href="https://sichengchen.github.io/post/xin-chun-kuai-le/">
         </link>
         <updated>2020-01-25T11:43:30.000Z</updated>
-        <content type="html"><![CDATA[<h1 id="祝大家农历庚子新年快乐">祝大家农历庚子新年快乐！</h1>
+        <content type="html"><![CDATA[<h1 id="祝大家農曆庚子年新春快樂">祝大家農曆庚子年新春快樂！</h1>
 <p>![1][pic1]</p>
-<h1 id="做好防护措施过个健康年">做好防护措施，过个健康年！</h1>
-<p>世卫组织关于2019-nCoV的介绍<a href="https://www.who.int/zh/news-room/q-a-detail/q-a-coronaviruses">2</a><br>
-来自国家卫健委的最新信息<a href="http://www.nhc.gov.cn/xcs/xxgzbd/gzbd_index.shtml">3</a></p>
+<h1 id="做好防護措施謹防-2019-ncov">做好防護措施，謹防 2019-nCoV ！</h1>
+<p>WHO 關於 2019-nCoV 的介紹<a href="https://www.who.int/zh/news-room/q-a-detail/q-a-coronaviruses">2</a><br>
+國家衛健委的消息<a href="http://www.nhc.gov.cn/xcs/xxgzbd/gzbd_index.shtml">3</a></p>
 ]]></content>
     </entry>
     <entry>
