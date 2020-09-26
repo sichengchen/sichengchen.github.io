@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sichengchen.github.io</id>
     <title>scchan</title>
-    <updated>2020-09-26T12:44:09.049Z</updated>
+    <updated>2020-09-26T13:24:12.239Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://sichengchen.github.io"/>
     <link rel="self" href="https://sichengchen.github.io/atom.xml"/>
@@ -10,6 +10,29 @@
     <logo>https://sichengchen.github.io/images/avatar.png</logo>
     <icon>https://sichengchen.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, scchan</rights>
+    <entry>
+        <title type="html"><![CDATA[04苏教版、19人教版《化学1》《化学2》对比]]></title>
+        <id>https://sichengchen.github.io/post/04-su-jiao-ban-19-ren-jiao-ban-lesslesshua-xue-1greatergreater-lesslesshua-xue-2greatergreater-dui-bi/</id>
+        <link href="https://sichengchen.github.io/post/04-su-jiao-ban-19-ren-jiao-ban-lesslesshua-xue-1greatergreater-lesslesshua-xue-2greatergreater-dui-bi/">
+        </link>
+        <updated>2020-09-26T13:20:19.000Z</updated>
+        <content type="html"><![CDATA[<p>近日于本地新华书店搞到了一套浙江省普通高中从2023届开始使用的新教材。他们分别是：（括号内为04版教材所采用版本）</p>
+<ul>
+<li>语文：人民教育出版社（苏教）</li>
+<li>数学：人民教育出版社（人教）</li>
+<li>英语：人民教育出版社（人教）</li>
+<li>物理：人民教育出版社（人教）</li>
+<li>化学：人民教育出版社（苏教）</li>
+<li>生物（学）：浙江科学技术出版社（浙科，《生物》/《生物学》均有）</li>
+<li>思想政治：人民教育出版社（人教）</li>
+<li>历史：人民教育出版社（人民）</li>
+<li>地理：湖南教育出版社（湘教）</li>
+<li>技术：？（苏教）<br>
+（似乎宁波略有不同）</li>
+</ul>
+<p>待续</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[好物（我的推荐）]]></title>
         <id>https://sichengchen.github.io/post/hao-wu-wo-de-tui-jian/</id>
