@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sichengchen.github.io</id>
     <title>scchan</title>
-    <updated>2020-10-03T06:27:41.216Z</updated>
+    <updated>2020-12-06T11:29:53.986Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://sichengchen.github.io"/>
     <link rel="self" href="https://sichengchen.github.io/atom.xml"/>
@@ -34,22 +34,24 @@
 ]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[好物（我的推荐）]]></title>
+        <title type="html"><![CDATA[好物（我的推荐 / “SC精选”认证产品）]]></title>
         <id>https://sichengchen.github.io/post/hao-wu-wo-de-tui-jian/</id>
         <link href="https://sichengchen.github.io/post/hao-wu-wo-de-tui-jian/">
         </link>
         <updated>2020-08-14T14:31:42.000Z</updated>
         <content type="html"><![CDATA[<p>我将在这篇文章中罗列出各种品类里我所推荐的产品/方法/软件/型号。<br>
-带👍的是优选产品。</p>
+带👍的是“SC精选”认证产品。</p>
 <h1 id="文具篇">文具篇</h1>
 <h2 id="中性笔篇">中性笔篇</h2>
 <ul>
-<li>👍 三菱铅笔 Uniball Signo 307 （UMN-307-38）</li>
-<li>👍 百乐 Pilot Juice Up</li>
+<li>三菱铅笔 Uniball Signo 307 （UMN-307-38）</li>
+<li>👍 三菱铅笔 Uniball One （UMN-S-05）</li>
+<li>百乐 Pilot Juice Up</li>
 <li>三菱铅笔 Uniball Signo DX （UM-151）</li>
 <li>三菱铅笔 Uniball Signo RT1 （UMN-155）</li>
 <li>（替芯）三菱铅笔 UMR-85N</li>
 <li>👍（替芯）三菱铅笔 UMR-83E</li>
+<li>（替芯）三菱铅笔 UMR-05S</li>
 <li>（替芯）三菱铅笔 UMR-1</li>
 <li>（替芯）派通 Pentel EnerGel LRN-5</li>
 </ul>
@@ -61,6 +63,7 @@
 <h2 id="活动铅笔篇">活动铅笔篇</h2>
 <ul>
 <li>三菱铅笔 Uni Kuru Toga 系列</li>
+<li>樱花 XS-305</li>
 </ul>
 <h2 id="活动铅芯篇">活动铅芯篇</h2>
 <ul>
