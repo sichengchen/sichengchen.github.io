@@ -2,14 +2,14 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sichengchen.github.io</id>
     <title>scchan</title>
-    <updated>2020-12-06T11:29:53.986Z</updated>
+    <updated>2021-02-05T02:23:35.382Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://sichengchen.github.io"/>
     <link rel="self" href="https://sichengchen.github.io/atom.xml"/>
     <subtitle>个人 Blog 站点</subtitle>
     <logo>https://sichengchen.github.io/images/avatar.png</logo>
     <icon>https://sichengchen.github.io/favicon.ico</icon>
-    <rights>All rights reserved 2020, scchan</rights>
+    <rights>All rights reserved 2021, scchan</rights>
     <entry>
         <title type="html"><![CDATA[04苏教版、19人教版《化学1》《化学2》对比]]></title>
         <id>https://sichengchen.github.io/post/04-su-jiao-ban-19-ren-jiao-ban-lesslesshua-xue-1greatergreater-lesslesshua-xue-2greatergreater-dui-bi/</id>
