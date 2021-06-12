@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sichengchen.github.io</id>
     <title>scchan</title>
-    <updated>2021-06-05T05:47:40.799Z</updated>
+    <updated>2021-06-12T01:45:07.444Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://sichengchen.github.io"/>
     <link rel="self" href="https://sichengchen.github.io/atom.xml"/>
@@ -10,6 +10,29 @@
     <logo>https://sichengchen.github.io/images/avatar.png</logo>
     <icon>https://sichengchen.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, scchan</rights>
+    <entry>
+        <title type="html"><![CDATA[2021年港中（深）三位一体校测游记]]></title>
+        <id>https://sichengchen.github.io/post/2021-nian-gang-zhong-shen-san-wei-yi-ti-xiao-ce-you-ji/</id>
+        <link href="https://sichengchen.github.io/post/2021-nian-gang-zhong-shen-san-wei-yi-ti-xiao-ce-you-ji/">
+        </link>
+        <updated>2021-06-12T01:35:18.000Z</updated>
+        <content type="html"><![CDATA[<p>考点：浙中某市</p>
+<h1 id="机考必考">机考（必考）</h1>
+<p>文综部分总体感觉还行，有几个点不太明白。考的内容中历史部分几乎都不是课本上的，对我们这些不选文科科目的比较友好。前四题为单选题，考到了一些基础的音韵学常识（反切法），字音字形等。后几道为不定项选择题，历史有考到苏伊士运河危机等，总体选题还是比较广的。还有一些社科文段落阅读，选项会结合历史等进行提问。大题方面有一篇小说阅读和一篇文言文阅读，大致为高考难度。文言文选择题考察断句、翻译和文意理解。数学部分比我预期的要难一些。</p>
+<h1 id="加试选择数学物理">加试（选择：数学+物理）</h1>
+<p>整体还是不简单的，不过也可以用特殊的方法做出来。</p>
+<h1 id="口试">口试</h1>
+<p>题目忘了。</p>
+<h1 id="笔试中英写作">笔试（中英写作）</h1>
+<h2 id="中文试题大致">中文试题（大致）</h2>
+<p>每个时代都有每个时代的“冒险者”，假如你有机会穿越时空，你会选择和玄奘、马可·波罗、哥伦布中的哪位一起“冒险”呢？你们会创造怎么样的历史？<br>
+写一篇500字以上的短文，需逻辑严谨，论证清晰且一定程度上体现你的课外阅读与对人、事、物的观察。题目自拟。</p>
+<h2 id="英文试题大致">英文试题（大致）</h2>
+<p>试题背景：在港中（深）的校园中有一个标语写到：“Excellence with a soul.”<br>
+Do you think &quot;excellence&quot; alone is or is not good enough for a university or a person? Why?<br>
+不少于250词，自拟题目。</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[04苏教版、19人教版《化学1》《化学2》对比]]></title>
         <id>https://sichengchen.github.io/post/04-su-jiao-ban-19-ren-jiao-ban-lesslesshua-xue-1greatergreater-lesslesshua-xue-2greatergreater-dui-bi/</id>
@@ -643,16 +666,6 @@ at java.lang.Thread.run(Unknown Source) [?:1.8.0_121]<br>
 <p>请等待翻译</p>
 <h1 id="结语">结语</h1>
 <p>Uni-ball Signo提供了笔的广泛选择，从日常写作到工艺项目都十分适合。 档案凝胶油墨的顺滑书写使它成为我们笔筒的必备品。 你最喜欢的Uni-ball Signo笔是什么？</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[开站通知]]></title>
-        <id>https://sichengchen.github.io/post/kai-zhan-tong-zhi/</id>
-        <link href="https://sichengchen.github.io/post/kai-zhan-tong-zhi/">
-        </link>
-        <updated>2017-11-13T11:30:28.000Z</updated>
-        <content type="html"><![CDATA[<h1 id="本站再开">本站再开</h1>
-<p>欢迎！</p>
 ]]></content>
     </entry>
 </feed>
